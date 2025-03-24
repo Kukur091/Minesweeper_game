@@ -1,4 +1,4 @@
-package projet.tp11.minesweeper.model;
+package minesweeper.model;
 
 public class Position {
 	private int line;
