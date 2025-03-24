@@ -1,4 +1,4 @@
-package projet.tp11.minesweeper.model;
+package minesweeper.model;
 
 import projet.tp11.minesweeper.gui.*;
 public class MainMineSweeper {
