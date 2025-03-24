@@ -1,4 +1,4 @@
-package projet.tp11.minesweeper.gui;
+package minesweeper.gui;
 
 import projet.tp11.minesweeper.model.MineSweeper;
 import javax.swing.JFrame;
