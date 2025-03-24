@@ -1,4 +1,4 @@
-package projet.tp11.minesweeper.gui;
+package minesweeper.gui;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
